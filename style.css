@@ -1,0 +1,43 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+h1 {
+    color: cadetblue;
+    font-family:fantasy;
+    border:solid;
+    border-width: 5px;
+    border-radius: 15px;
+    border-color: darkseagreen;
+    background-color:floralwhite;
+}
+
+.flexbox {
+    display: flex;
+    color: darkblue;
+    font-size: 20px;
+    font-family:monospace;
+}
+img{
+    width:500px;
+    border:solid;
+    border-color:darkcyan;
+    border-width: 8px;
+    border-radius: 20px;
+    
+}
+#margin{
+    margin-right: 50px;
+}
+#margin1{
+    margin-right: 50px;
+}
+p{
+    background-color: azure;
+}
+h4{
+    color:darkolivegreen;
+    background-color:aliceblue;
+    font-size:23px;
+}
